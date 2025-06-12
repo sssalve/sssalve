@@ -1,4 +1,4 @@
-# Hi, I'm sssalve or Alex 👋
+# Hi, I'm Alex 👋
 
 **Aspiring Game Developer & Software Engineering Student**
 
