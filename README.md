@@ -30,7 +30,7 @@ I'm a 22-year-old developer passionate about coding, game design, and continuous
 
 ## 🌟 Featured Project
 
-### [Daily Task Tracker App](https://github.com/sssalve/daily-task-tracker)
+### [Daily Task Tracker App](https://github.com/sssalve/DailyTaskTrackerApp)
 A productivity tool to help you keep on top of your goals—built with a focus on simplicity, usability, and learning best practices.
 
 ---
