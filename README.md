@@ -13,7 +13,6 @@ Focused on C#, Python, and building games (GameMaker, Godot)
 I'm a 22-year-old developer passionate about coding, game design, and continuous self-improvement. Whether it's crafting daily productivity tools or experimenting with indie game engines, I strive to blend creativity with technical skill.
 
 - Indie roguelike enthusiast & supporter of small studios
-- BMX rider & gym goer
 - Building a personal website (coming soon!)
 - Always open to collaboration and feedback
 
