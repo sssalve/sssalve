@@ -44,11 +44,3 @@ A puzzle platformer made in 4 days for the GMTK 2025 Game Jam, theme was Loop. G
 - **LinkedIn:** in progress!
 - **GitHub:** [sssalve](https://github.com/sssalve)
 
----
-
-<details>
-
-
-</details>
-
----
