@@ -33,6 +33,9 @@ I'm a 22-year-old developer passionate about coding, game design, and continuous
 ### [Daily Task Tracker App](https://github.com/sssalve/DailyTaskTrackerApp)
 A productivity tool to help you keep on top of your goals—built with a focus on simplicity, usability, and learning best practices.
 
+### [Killoop](https://github.com/sssalve/GMTK-Game-Jam-2025)
+A puzzle platformer made in 4 days for the GMTK 2025 Game Jam, theme was Loop. Goals where to create a polished and complete game experience while staying in scope.
+
 ---
 
 ## 📫 Connect with Me
