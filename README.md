@@ -4,7 +4,7 @@
 
 Currently studying Software Development at SAIT  
 Focused on C#, Python, and building games (GameMaker, Godot)  
-🛠Exploring new tech, always learning, and expanding my project portfolio
+Exploring new tech, always learning, and expanding my project portfolio
 
 ---
 
